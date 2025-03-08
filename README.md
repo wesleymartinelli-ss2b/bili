@@ -18,9 +18,7 @@ chmod +x setup-vps.sh
 ./setup-vps.sh
 ```
 
-Neste script temos a criação das redes que o Docker irá utilizar, sendo que separamos a rede de cada cliente, assim como teremos os volumes que também são separados para cada cliente.
-
-Quando um novo cliente contrata o serviço de telefonia, o arquivo [setup-vps.sh](setup-vps.sh) é atualizado e executado.
+Neste script temos a criação das redes que o Docker irá utilizar, sendo que separamos a rede de cada cliente, assim como teremos os volumes que também são separados para cada cliente. Quando um novo cliente contrata o serviço de telefonia, o arquivo [setup-vps.sh](setup-vps.sh) é atualizado e executado.
 
 ### 2. Portainer
 O Portainer foi criado no modelo Standalone, isto é, instalado diretamente através da console cli do Linux. 
