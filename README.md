@@ -49,10 +49,6 @@ ss2b/                               b2e/
 │   └── init.sql                    │   └── init.sql
 ├── asterisk/                       ├── asterisk/
 │   └── Dockerfile                  │   └── Dockerfile
-├── bili-svc/                       ├── bili-svc/
-│   └── Dockerfile                  │   └── Dockerfile
-└── bili-api/                       └── bili-api/
+└── bili/                           └── bili/
     └── Dockerfile                      └── Dockerfile
 ```
-
-
